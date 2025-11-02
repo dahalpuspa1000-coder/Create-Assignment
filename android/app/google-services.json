@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153028996927",
+    "project_id": "flutter-project-11bf0",
+    "storage_bucket": "flutter-project-11bf0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153028996927:android:7d1a6ba3cc8dc3b38d6d8a",
+        "android_client_info": {
+          "package_name": "com.classroom.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpd_YGd-UhCg9yvIYejy7517eQummwjYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
